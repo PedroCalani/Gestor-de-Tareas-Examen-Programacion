@@ -13,14 +13,17 @@ El usuario puede agregar, visualizar, completar y eliminar tareas, todo desde la
 
 ## 📦 Requisitos
 Este proyecto necesita Python 3 y las siguientes librerías que no vienen instaladas por defecto:
-Pandas
-Colorama
+* Pandas
+* Colorama
 
 ## Cómo usar
 Cloná el repositorio o descargá los archivos.
+
 Podés crear un entorno virtual para instalar los módulos en un ambiente aislado.
 Instalá los módulos necesarios escritos en requirements.txt
+
 Ejecutá main.py
+
 Después de eso, el manejo en el programa se realiza mediante inputs, generalmente introduciendo valores númericos.
 
 ## Estructura del proyecto
