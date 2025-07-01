@@ -25,10 +25,17 @@ Después de eso, el manejo en el programa se realiza mediante inputs, generalmen
 
 ## Estructura del proyecto
 - gestor_tareas/
+
 ----- main.py               # Menú principal.
+  
 ----- tareas.py             # Funciones para agregar/ver/completar/eliminar tareas.
+
 ----- funciones.py          # Funciones generales (como verificar que un input sea correcto).
+
 ----- tareas.csv            # Archivo donde se guardan las tareas.
+
 ----- gestor_de_tareas.log  # Archivo donde se registan los logs.
+
 ----- requirements.txt      # Módulos necesarios.
+
 ----- README.md
